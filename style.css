@@ -1,0 +1,30 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    margin: 40px;
+}
+
+.box {
+    background-color: #ccc;
+    border: 10px solid green;
+    padding: 20px;
+    width: 420px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.box2 {
+    background-color: #ccc;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    width: 500px;
+    box-shadow: 5px 5px 5px gray;
+    line-height: 1.5;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: 40px;
+}
